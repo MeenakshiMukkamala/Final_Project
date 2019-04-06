@@ -1,1 +1,22 @@
 1
+body{
+font-family: ZCOOL XiaoWei;
+
+}
+body {
+  background-image: linear-gradient(rgb(242, 53, 75), rgb(244, 65, 160))
+}
+#Resource {
+  font-size: 20px;
+}
+
+body{
+    font-size: 20px;
+}
+h1{
+  text-align: center;
+}
+h3{
+    text-align: center;
+}
+
